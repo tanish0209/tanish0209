@@ -31,8 +31,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanish0209&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanish0209&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanish0209&theme=react-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0209&layout=compact)
 
 
