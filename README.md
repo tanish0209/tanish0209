@@ -1,7 +1,6 @@
 ## Hi there,I'm Tanish 👋
 
 - 💼 Role: Fullstack Developer | Java Programmer
-- 🔭 I’m currently working on a fullstack application for small businesses.
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/tanish-bajaj) | [Email](mailto:bajajtanish2003@gmail.com)
 
 ## 🛠 Skills
