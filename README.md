@@ -29,9 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanish0209&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0209&layout=compact)
+
 
 
 
